@@ -3,6 +3,7 @@
 *.db
 .DS_Store
 .coverage
+/static
 __pycache__
 myvenv
 db.sqlite3
